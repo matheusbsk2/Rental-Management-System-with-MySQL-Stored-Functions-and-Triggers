@@ -4,7 +4,7 @@
 
 Este projeto implementa um Sistema de Gestão de Aluguéis utilizando MySQL, com foco na aplicação de regras de negócio diretamente no banco de dados por meio de:
 
-- Stored Functions  
+- Stored Functions 
 - Triggers  
 - Modelagem Relacional  
 - Integridade Referencial (Foreign Keys)
